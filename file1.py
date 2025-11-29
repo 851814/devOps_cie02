@@ -3,7 +3,7 @@ if(sys.argv)!=4:
    num=int(sys.argv[1])
    name=(sys.argv[2])
    age=int(sys.argv[3])
-   birth=int(sys.argv[4])
+   birth=(sys.argv[4])
    
 else:
    num="101"
