@@ -6,10 +6,10 @@ if(sys.argv)!=4:
    birth=int(sys.argv[4])
    
 else:
-    num="101"
-    name="John"
-    age=30
-    birth="30 March,1995"
+   num="101"
+   name="John"
+   age=30
+   birth="30 March,1995"
 print("Train Number:",101)
 print("Name of the passenger:","John")
 print("Age of passenger:",30)
