@@ -6,7 +6,7 @@ if(sys.argv)!=4:
    birth=(sys.argv[4])
    
 else:
-   num="2101"
+   num="101"
    name="John"
    age=30
    birth="30 March,1995"
