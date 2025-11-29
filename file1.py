@@ -1,7 +1,7 @@
 import sys
 if(sys.argv)!=4:
    num=int(sys.argv[1])
-   name=int(sys.argv[2])
+   name=(sys.argv[2])
    age=int(sys.argv[3])
    birth=int(sys.argv[4])
    
